@@ -14,7 +14,7 @@ Die Annahme besteht darin, dass es sich um codierten Text handelt. Jeweils ein B
 
 Die Aufgabenstellung lautet nun, ein Programm zu schreiben, das den Text lesbar macht.
 
-## Lösung 1 (inspiriert durch den Algorithmus von Franz Fiala)
+## Lösung 1: Die alte Schule (inspiriert durch den Algorithmus von Franz Fiala)
 
 Mit einer ````for````-Schleife werden die Zeichen in 8er-Blöcken verarbeitet. Bemerkenswert dabei ist, dass eine ````for````-Schleife die Zählervariable nicht immer nur um 1 erhöhen kann, sondern auch um andere Werte, z. B. 8.
 
