@@ -154,6 +154,7 @@ foreach ($zeile in $eingabeText) {
 
     }
 }
+#endregion Verarbeitung
 
 #region Ausgabe
 
